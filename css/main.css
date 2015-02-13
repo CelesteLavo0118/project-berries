@@ -1,0 +1,186 @@
+html {
+  background-color:#ffffff;
+}
+
+body{
+  margin: 0;
+}
+
+ol{
+  list-style-type:none;
+  padding:0;
+}
+
+ul {
+  list-style-type:none;
+}
+
+a {
+  color:#713837;
+  line-height: 1.5rem;
+  background-color: #ffe524;
+  display: block;
+}
+
+.wiki{
+  display: inline-block;
+}
+
+.quoted {
+  font-style:italic;
+  text-align:center;
+  padding-bottom:0;
+  padding:0 30px;
+  font-family: georgia, normal;
+  color: #b2a215;
+  margin-top: -0.2rem;
+  margin-bottom:0;
+}
+
+.quote{
+  font-style:italic;
+  text-align:center;
+  font-size:2.5rem;
+  padding:0;
+  font-family: georgia, normal;
+  color: #b2a215;
+  margin-bottom: 0;
+}
+
+.quota{
+  color: #b2a215;
+}
+
+.name{
+  font-style:italic;
+  text-align:center;
+  padding-top:0;
+  padding-bottom: 2rem;
+  font-family: georgia, normal;
+  color: #b2a215;
+  margin-top: 0;
+}
+
+strong{
+  color: black;
+}
+
+h2{
+  font-family: "Sigmar One", normal;
+  font-weight: 400;
+  color:#b32f52;
+  border-top: 0.3rem solid #ffe524;
+  padding-top: 2rem;
+}
+
+h3 {
+  font-family: 'Sigmar One', normal;
+  font-weight: 400;
+  color:#b32f52;
+}
+
+dl{
+  line-height: 1.5rem;
+}
+
+dt{
+  font-weight:600;
+}
+
+header{
+  font-family: 'Sigmar One', normal;
+  font-weight: 400;
+  color:#b32f52;
+  background-color: #ffe524;
+}
+
+header h1{
+  font-family: 'Sigmar One', normal;
+  font-weight: 400;
+  color:#b32f52;
+  background-color: #ffe524;
+  font-weight: 400;
+  text-align:center;
+  padding: 0;
+  margin: 0 auto;
+}
+
+nav{
+  text-align:center;
+  margin:0;
+}
+
+nav ol{
+  list-style-type:none;
+  padding: 0;
+  margin: 0;
+}
+
+nav li{
+  display:inline;
+}
+
+nav a{
+  display:inline-block;
+  padding: 0.5em 0.75em;
+  background-color: #b2a215;
+  text-decoration: none;
+  color:white;
+  font-family: georgia, normal;
+  border-radius:5px;
+  margin-bottom: 0.7rem;
+}
+
+nav a:hover{
+  display:inline-block;
+  padding: 0.5em 0.75em;
+  background-color: #cc3865;
+  text-decoration: none;
+  color:white;
+  font-family: georgia, normal;
+  border-radius:5px;
+  margin-bottom: 0.7rem;
+}
+
+footer{
+  font-weight: 400;
+  color:black;
+  background-color: #ffe524;
+  padding: 1rem;
+  text-align: center;
+}
+
+footer ul{
+  font-family: arial, normal;
+  font-size: 0.6rem;
+  margin: 0 0.5rem;
+  list-style-type:none;
+  color:black;
+  text-align: center;
+}
+
+img{
+  width: 95%;
+  display: block;
+  margin: 0 auto;
+}
+
+figure{
+    border: 0.15rem solid #b2a215;
+    background-color:#fffce0;
+    padding-right: 0.5rem;
+    padding-left: 0.5rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.8rem;
+    border-radius:7px;
+    margin: 0;
+}
+
+.caption{
+  text-align:center;
+  font-style: italic;
+}
+
+div{
+  padding: 1rem;
+}
